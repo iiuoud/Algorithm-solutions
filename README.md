@@ -5,6 +5,6 @@ Record the learning process of the algorithm
 
 - 数组、集合、哈希表
 
-- 栈
+- 栈、队列
 
 - 树
